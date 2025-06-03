@@ -12,19 +12,19 @@
 小程序用法示例，如下图所示。
 
 <p align="center">
-<img src="https://github.com/DHfusion/Chinese_phonology/blob/main/1.jpg" width=250/>
+<img src="https://github.com/DHfusion/Chinese_phonology/blob/main/1.jpg" />
 </p>
 
 <p align="center">
-<img src="https://github.com/DHfusion/Chinese_phonology/blob/main/2.jpg" width=250/>
+<img src="https://github.com/DHfusion/Chinese_phonology/blob/main/2.jpg" />
 </p>
 
 <p align="center">
-<img src="https://github.com/DHfusion/Chinese_phonology/blob/main/3.jpg" width=250/>
+<img src="https://github.com/DHfusion/Chinese_phonology/blob/main/3.jpg" />
 </p>
 
 <p align="center">
-<img src="https://github.com/DHfusion/Chinese_phonology/blob/main/4.jpg" width=250/>
+<img src="https://github.com/DHfusion/Chinese_phonology/blob/main/4.jpg" />
 </p>
 
 
